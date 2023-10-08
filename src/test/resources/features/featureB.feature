@@ -1,7 +1,7 @@
 Feature: The application should be running 2
 
 
-  @regression @test
+  @regression @test @wip
 Scenario: another search
 Given I am on the home page
 When I search for "useless box"
